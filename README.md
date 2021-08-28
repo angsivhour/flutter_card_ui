@@ -1,6 +1,8 @@
 # flutter_card_ui
 
-A new Flutter project.
+Here is a screenshot of the APP.
+
+<img src="https://github.com/sivhourang/flutter_card_ui/blob/master/images/screenshot.png" width=200>
 
 ## Getting Started
 
